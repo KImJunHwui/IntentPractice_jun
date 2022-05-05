@@ -13,7 +13,7 @@
         android:id="@+id/sayHelloEdt"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="전달할 메세지 전달"/>
+        android:hint="전달할 메세지 전달"/>
 
     <Button
         android:id="@+id/PressBtn"

@@ -14,5 +14,6 @@ class MoveToNext : AppCompatActivity() {
 
         getMessageTxt.text = get
 
+
     }
 }
