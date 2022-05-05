@@ -22,6 +22,10 @@
         android:text="누르세요"/>
 
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="안뇽"/>
 
 
 
