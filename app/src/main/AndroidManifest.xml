@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.IntentPractice_jun">
         <activity
+            android:name=".NicknameActivity"
+            android:exported="true" />
+        <activity
             android:name=".MoveToNext"
             android:exported="true" />
         <activity
